@@ -170,3 +170,11 @@ input[type='color']::-webkit-color-swatch {
 }
 
 /* Iteration 3: Style the coloring buttons */
+
+#color-container input{
+    height: 100px;
+    width: 100px;
+    border-radius: 4px;
+    margin-bottom: 4px;
+    border: solid 1px rgba(228, 228, 228, 0.3);
+}
